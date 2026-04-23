@@ -5,6 +5,7 @@ classDiagram
      - charge: float
      + Charge: float
      + Level: int
+     + Name: string
 
      
 
