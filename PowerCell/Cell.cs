@@ -49,7 +49,7 @@ namespace PowerCell
 
         public override string ToString()
         {
-            return $"[{Name}] Level {Level}: {Charge}/200";
+            return $"[{Name}] Level {Level}: {Charge:F0}/200";
         }
     }
 }
